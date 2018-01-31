@@ -1,8 +1,8 @@
 # UX - Research  
 
-* **Track:** _Common Core_
-* **Curso:** _Crea tu propia red social_
-* **Unidad:** _Crea tu propia red social_
+* **Track:** _Especialización UX Designer_
+* **Curso:** _Primer proyecto de UX_
+* **Unidad:** _Pimer proyecto UX_
 * **Alumnas:**  
   * Rocío Quilla. 
   * Angelica Maria Villalobos.
