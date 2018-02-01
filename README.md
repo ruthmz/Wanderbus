@@ -4,10 +4,11 @@
 * **Curso:** _Primer proyecto de UX_
 * **Unidad:** _Pimer proyecto UX_
 * **Alumnas:**  
+  * Alexandra Calderón. 
+  * Ruth Matos
   * Rocío Quilla. 
-  * Angelica Maria Villalobos.
   * María Teresa Ruiz.  
-  * Alexandra Calderón.  
+  * Angelica Maria Villalobos.
   * Claudia Ingrid Zarate. 
 
 
