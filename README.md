@@ -49,7 +49,7 @@ Spotify
 Netflix
 Adidas
 CAT
-Gustos:
+**Gustos:**
 Deportes de aventura
 Le gustan las cosas espontaneas
 
