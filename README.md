@@ -45,13 +45,20 @@ Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones
 **Metas:** Comprarse un departamento
 
 **Marcas:**
-Spotify
-Netflix
-Adidas
-CAT
+
+- Spotify
+
+- Netflix
+
+- Adidas
+
+- CAT
+
 **Gustos:**
-Deportes de aventura
-Le gustan las cosas espontaneas
+
+- Deportes de aventura
+
+- Le gustan las cosas espontaneas
 
 ## Resumen
 
@@ -59,5 +66,5 @@ Nuestro usuario principal se llama Carlos, vive en lima y tiene 24 años. Él es
 Carlos ha realizado algunas compras online, pero sus experiencias no han sido las mejores. Por eso cuando viaja prefiere comprar en ventanillas o agencias, pero eso le demanda mucho tiempo. Por ello, esta considerando otras opciones que le resulten más rápidas y sencillas.
  
 ## Problem statements
-* Carlos NECESITA una manera segura PARA comprar pasajes online.
-* Carlos QUISIERA que el proceso de compra PARA realizar compras online.
+-  Carlos NECESITA una manera segura PARA comprar pasajes online.
+-  Carlos QUISIERA que el proceso de compra PARA realizar compras online.
