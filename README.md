@@ -25,14 +25,19 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ## **Flujo de trabajo:**
 
-# Día 1
+### Día 1
 
 En este día empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
 
-![form1](assets/img/form1.PNG)![form1](assets/img/form2.PNG)![form1](assets/img/form3.PNG)![form1](assets/img/form4.PNG)![form1](assets/img/form5.PNG)
+![Imagen 1][1]![Imagen 2][2]![Imagen 3][3]![Imagen 4][4]![Imagen 5][5]
 
-![research1](assets/img/research-1.jpg)
-![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-6.jpg)![research1](assets/img/research-7.jpg)
+ [1]: assets/img/form1.PNG
+ [2]: assets/img/form2.PNG
+ [3]: assets/img/form3.PNG
+ [4]: assets/img/form4.PNG
+ [5]: assets/img/form5.PNG
+
+![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-7.jpg)![research1](assets/img/research-6.jpg)
 
 **Guión Literario**
 
@@ -66,19 +71,15 @@ Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones
 
 **Marcas:**
 
-- Spotify
-
-- Netflix
-
-- Adidas
-
-- CAT
+- Spotify.
+- Netflix.
+- Adidas.
+- CAT.
 
 **Gustos:**
 
-- Deportes de aventura
-
-- Le gustan las cosas espontaneas
+- Deportes de aventura.
+- Le gustan las cosas espontáneas.
 
 ## Resumen
 
