@@ -29,13 +29,21 @@ Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones
 **Frase:** 
 “Un buen viajero no tiene planes fijos ni la intención de llegar”
 **Información Demográfica**
+
 **Distrito:** Surquillo
+
 **Departamento:** Lima
+
 **Universidad:** San Martin
-**Carrera:** Ciencias de la Comunicación
+
+**Carrera:** Ciencias de la Comunicación 
+
 **Ocupación:** Redactor en El Comercio
+
 **Frustraciones:** Falta de tiempo
+
 **Metas:** Comprarse un departamento
+
 **Marcas:**
 Spotify
 Netflix
