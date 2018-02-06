@@ -6,15 +6,19 @@
 * **Alumnas:**  
   * Alexandra Calderón. 
   * Ruth Matos
-  * Rocío Quilla. 
+  * Rocio Quilla. 
   * María Teresa Ruiz.  
   * Angelica Maria Villalobos.
   * Claudia Ingrid Zarate. 
 
-
 ***
 
-## Guión Literario
+## Día 1: Research - Trabajo de campo
+
+Se realizaron un research 
+
+
+### Guión Literario
 
 Carlos se siente estresado debido a su ajetreado horario laboral, es por ello, que aprovechará los días de feriado largo para hacer un viaje y disfrutar de lo que mas le gusta hacer.
 
