@@ -13,9 +13,9 @@
 
 ***
 
-## **RETO**
+## RETO
 
-**NUEVA EXPERIENCIA EN EMPRESAS DE BUSES**
+**Nueva experiencia en empresas de buses**
 
 Nos ha contactado Catalina una emprendedora viajera con una idea de negocio. Durante sus últimas vacaciones Catalina estuvo viajando por todo latinoamérica. Durante estos viajes Catalina tuvo que tomar muchos buses de todo tipo para llegar a ver los paisajes más lindos del continente. Durante sus viajes Catalina se dio cuenta que existen aún muchas oportunidades para mejorar la experiencia de todos los usuarios de este tipo de transporte: horarios, embarques, desembarques, compra de tickets en los terminales, compra de tickets online, cancelaciones, cambios de pasajes, etc. Adicionalmente, Catalina se dio cuenta que todas las plataformas de venta de tickets de bus tienen cosas por mejorar en Chile, Perú y México.
 
@@ -23,12 +23,18 @@ Luego de vivir todo esto, Catalina está pensando en emprender en este sector. P
 
 Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversión y así obtener el financiamiento necesario para emprender su negocio y mejorar la experiencia en este rubro.
 
-## **Flujo de trabajo**
+## **Flujo de trabajo:**
 
-## Día 1
+# Día 1
 
+En este día empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
 
-### Guión Literario
+![form1](assets/img/form1.PNG)![form1](assets/img/form2.PNG)![form1](assets/img/form3.PNG)![form1](assets/img/form4.PNG)![form1](assets/img/form5.PNG)
+
+![research1](assets/img/research-1.jpg)
+![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-6.jpg)![research1](assets/img/research-7.jpg)
+
+**Guión Literario**
 
 Carlos se siente estresado debido a su ajetreado horario laboral, es por ello, que aprovechará los días de feriado largo para hacer un viaje y disfrutar de lo que mas le gusta hacer.
 
