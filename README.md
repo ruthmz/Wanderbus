@@ -25,11 +25,11 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ## **Flujo de trabajo:**
 
-### Día 1
+### Research
 
 En este día empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
 
-![Imagen 1][1]![Imagen 2][2]![Imagen 3][3]![Imagen 4][4]![Imagen 5][5]
+![Imagen 1][1]  ![Imagen 2][2]  ![Imagen 3][3]  ![Imagen 4][4]  ![Imagen 5][5]
 
  [1]: assets/img/form1.PNG
  [2]: assets/img/form2.PNG
@@ -38,6 +38,21 @@ En este día empezamos a entender los problemas del usuario. Es por eso que sali
  [5]: assets/img/form5.PNG
 
 ![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-7.jpg)![research1](assets/img/research-6.jpg)
+
+
+Algunos insight que obtuvimos de las encuestas son:
+
+![insight](assets/img/insights.jpeg)
+
+### Síntesis
+
+Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los insights hallados en el research. 
+
+
+
+Es así que logramos llegar a definir el problema del usuario
+
+
 
 **Guión Literario**
 
