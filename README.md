@@ -50,6 +50,34 @@ Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los i
 
 ![problem1](assets/img/problem1.PNG)![problem1](assets/img/problem2.PNG)![problem1](assets/img/problem3.PNG)![problem1](assets/img/problem4.PNG)![problem1](assets/img/problem5.PNG)
 
+#### User Personas
+
+Después de definir el problema creamos un arquetipo sobre nuestro ususario con todos los datos recogidos.
+
+![userperson1](assets/img/userperson1.PNG)
+
+#### Problem statements
+-  Carlos NECESITA una manera segura PARA comprar pasajes online.
+-  Carlos QUISIERA que el proceso de compra PARA realizar compras online.
+
+### Conceptualización
+
+Es aquí donde empezamos a pensar en qué funcionalidad debería tener nuestro MPV.
+
+Aquí algunas ideas. 
+
+![funcionalidad1](assets/img/funcionalidad1.jpeg)![funcionalidad1](assets/img/funcionalidad2.jpeg)![funcionalidad1](assets/img/funcionalidad3.jpeg)
+
+**Benchmarking**
+![bench](assets/img/bench1.PNG)
+
+**Brainstorm**
+
+![brain](assets/img/brain1.jpeg)
+
+Es así que se crea el story board para este user person
+
+![problem1](assets/img/storyboard1.PNG)
 
 **Guión Literario**
 
@@ -62,42 +90,12 @@ Carlos decide ingresar a wanderbus.com y encuentra un portal dinámico y muy fá
 Y al cabo de 10 minutos, ya tiene la compra del ticket realizada, lo que le da tranquilidad y tiempo suficiente para hacer sus maletas y partir.
 
 Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones increíbles.
- 
-**Frase:** 
-“Un buen viajero no tiene planes fijos ni la intención de llegar”
-**Información Demográfica**
-
-**Distrito:** Surquillo
-
-**Departamento:** Lima
-
-**Universidad:** San Martin
-
-**Carrera:** Ciencias de la Comunicación 
-
-**Ocupación:** Redactor en El Comercio
-
-**Frustraciones:** Falta de tiempo
-
-**Metas:** Comprarse un departamento
-
-**Marcas:**
-
-- Spotify.
-- Netflix.
-- Adidas.
-- CAT.
-
-**Gustos:**
-
-- Deportes de aventura.
-- Le gustan las cosas espontáneas.
 
 ## Resumen
 
 Nuestro usuario principal se llama Carlos, vive en lima y tiene 24 años. Él es comunicador social y trabaja en El Comercio. Viaja dos veces por año. Generalmente una vez en sus vacaciones y otra en feriado largo con amigos.  En su tiempo libre le gusta practicar deportes y salir a divertirse con sus amigos los fines de semana.
 Carlos ha realizado algunas compras online, pero sus experiencias no han sido las mejores. Por eso cuando viaja prefiere comprar en ventanillas o agencias, pero eso le demanda mucho tiempo. Por ello, esta considerando otras opciones que le resulten más rápidas y sencillas.
  
-## Problem statements
--  Carlos NECESITA una manera segura PARA comprar pasajes online.
--  Carlos QUISIERA que el proceso de compra PARA realizar compras online.
+## Prototipo
+
+![pag1](assets/img/pag1.jpeg)![pag1](assets/img/pag2.jpeg)![pag1](assets/img/pag3.jpeg)![pag1](assets/img/pag4.jpeg)![pag1](assets/img/pag5.jpeg)![pag1](assets/img/pag6.jpeg)![pag1](assets/img/pag7.jpeg)![pag1](assets/img/pag8.jpeg)![pag1](assets/img/pag9.jpeg)![pag1](assets/img/pag10.jpeg)![pag1](assets/img/pag11.jpeg)![pag1](assets/img/pag12.jpeg)![pag1](assets/img/pag13.jpeg)![pag1](assets/img/pag14.jpeg)
