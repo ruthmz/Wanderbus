@@ -4,12 +4,12 @@
 * **Curso:** _Primer proyecto de UX_
 * **Unidad:** _Pimer proyecto UX_
 * **Alumnas:**  
-  * Alexandra Calderón. 
+  * Alexandra Calderón.
   * Ruth Matos
-  * Rocio Quilla. 
+  * Rocio Quilla.
   * María Teresa Ruiz.  
   * Angelica Maria Villalobos.
-  * Claudia Ingrid Zarate. 
+  * Claudia Ingrid Zarate.
 
 ***
 
@@ -27,7 +27,7 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ### Research
 
-En esta sección empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
+En esta sección empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial.
 
 ![Imagen 1][1]  ![Imagen 2][2]  ![Imagen 3][3]  ![Imagen 4][4]  ![Imagen 5][5]
 
@@ -37,11 +37,14 @@ En esta sección empezamos a entender los problemas del usuario. Es por eso que 
  [4]: assets/img/form4.PNG
  [5]: assets/img/form5.PNG
 
-![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-7.jpg)![research1](assets/img/research-6.jpg)
+ A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas:
 
-Algunos insight que obtuvimos de las encuestas son:
+  [LINK](https://mariaruizq.github.io/wanderBus-prototype/).
 
-![insight](assets/img/insights.jpeg)
+Algunos insight que obtuvimos de las encuestas virtuales son:
+
+![rpta](assets/img/ans1.PNG)
+![rpta](assets/img/ans2.PNG)![rpta](assets/img/ans3.PNG)![rpta](assets/img/ans4.PNG)![rpta](assets/img/ans5.PNG)![rpta](assets/img/ans6.PNG)![rpta](assets/img/ans7.PNG)![rpta](assets/img/ans8.PNG)![rpta](assets/img/ans9.PNG)![rpta](assets/img/ans10.PNG)
 
 ### Síntesis
 
@@ -66,7 +69,7 @@ Después de definir el problema creamos un arquetipo sobre nuestro ususario con 
 
 Es aquí donde empezamos a pensar en qué funcionalidad debería tener nuestro MPV.
 
-Aquí algunas ideas. 
+Aquí algunas ideas.
 
 ![funcionalidad1](assets/img/funcionalidad1.jpeg)![funcionalidad1](assets/img/funcionalidad2.jpeg)![funcionalidad1](assets/img/funcionalidad3.jpeg)
 
@@ -98,10 +101,10 @@ Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones
 **WanderBus**
 
 “Viaja fácil y seguro”
- 
-¡Hola, bienvenido a WanderBus. Para brindarte una experiencia única de viaje. Elige la opción que prefieras! 
 
-1. Quiero explorar nuevas opciones. 
+¡Hola, bienvenido a WanderBus. Para brindarte una experiencia única de viaje. Elige la opción que prefieras!
+
+1. Quiero explorar nuevas opciones.
 2. Ya tengo elegido mi destino.
 
 (​Elige: ‘Opción 1 ​ )
@@ -157,8 +160,8 @@ A solo unas horas de Lima se encuentra la mezcla perfecta de aventura y relax. I
 
 *(*Cada opción se presenta con fotografías del lugar, un mapa, indicaciones de como llegar ahi desde la ciudad y una puntuación)*
 
-* Acueducto de Cantalloc 
-* Cerro Blanco 
+* Acueducto de Cantalloc
+* Cerro Blanco
 * Islas Ballestas
 * Reserva Nacional de Paracas
 * Reserva Nacional de San Fernando
@@ -172,37 +175,37 @@ Un modal con las fechas de viaje para que pueda seleccionar (Ida y regreso)
 
 * Fecha: (Selecciona en un calendario)
 
-Viajaremos, viajaremos y el mundo conquistaremos <3 
+Viajaremos, viajaremos y el mundo conquistaremos <3
 
-* (Lista de opciones de los pasajes: precio, empresa, horario) 
-(​Selecciona: ‘Una opción’ ​ ) 
-* Información del boleto	
+* (Lista de opciones de los pasajes: precio, empresa, horario)
+(​Selecciona: ‘Una opción’ ​ )
+* Información del boleto
 --------
 (​Elige: ‘¡Comprar!’ )
-  
-¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra 
 
-* Facebook 
+¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra
+
+* Facebook
 
 * Gmail
 
 * Correo
 
-Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros! 
+Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros!
 
-¡Estás más cerca de iniciar una nueva aventura! 
-      
+¡Estás más cerca de iniciar una nueva aventura!
+
 * Tarjeta de crédito/débito
 
 * Pago Efectivo
 
-(​Elige: ‘tarjeta’ ​) 
+(​Elige: ‘tarjeta’ ​)
 
 * Crédito
 
-* Débito 
+* Débito
 
-(​Elige: ‘Débito’ ​) 
+(​Elige: ‘Débito’ ​)
 
 * Ingresa los datos del medio de pago.
 
@@ -213,7 +216,7 @@ Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo 
 * Ingresa tu código de seguridad para seguir con la compra
 (​Ingresa: ‘código de compra’ ​)
 
-¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes. 
+¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes.
 
 ¡Listo! Ahora solo falta hacer las maletas.
 La familia de Wanderbus te desea un feliz viaje!
@@ -224,9 +227,9 @@ La familia de Wanderbus te desea un feliz viaje!
 
 **Segunda Opción:**
 
-¡Hola, bienvenido a WanderBus. Para brindarte una experiencia única de viaje. Elige la opción que prefieras! 
+¡Hola, bienvenido a WanderBus. Para brindarte una experiencia única de viaje. Elige la opción que prefieras!
 
-1. Quiero explorar nuevas opciones. 
+1. Quiero explorar nuevas opciones.
 2. Ya tengo elegido mi destino.
 
 (​Elige: ‘Opción 2’ ​ )
@@ -237,32 +240,32 @@ La familia de Wanderbus te desea un feliz viaje!
 * Fecha: ...
 (​Escribe: ‘Lima - Ica’ ​ )  
 
-Estas son las mejores opciones para ti ! 
+Estas son las mejores opciones para ti !
 
-* (Lista de opciones de los pasajes: precio, empresa, horario) 
-(​Selecciona: ‘Una opción’ ​ ) 
-* Información del boleto	
+* (Lista de opciones de los pasajes: precio, empresa, horario)
+(​Selecciona: ‘Una opción’ ​ )
+* Información del boleto
 --------
 (​Elige: ‘¡Comprar!’ )
-  
-¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra 
-* Facebook 
+
+¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra
+* Facebook
 * Gmail
 * Correo
 
-Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros! 
+Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros!
 
-¡Estás más cerca de iniciar una nueva aventura! 
-      
+¡Estás más cerca de iniciar una nueva aventura!
+
 * Tarjeta de crédito/débito
 * Pago Efectivo
 
-(​Elige: ‘tarjeta’ ​ ) 
+(​Elige: ‘tarjeta’ ​ )
 
 * Crédito
-* Débito 
+* Débito
 
-(​Elige: ‘Debito’ ​) 
+(​Elige: ‘Debito’ ​)
 
 * Ingresa los datos del medio de pago.
 * Ingresa tu número de celular para enviarte un código de seguridad.
@@ -272,7 +275,7 @@ Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo 
 * Ingresa tu código de seguridad para seguir con la compra.
 (​Ingresa: ‘código de compra’ ​ )
 
-¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes. 
+¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes.
 
 ¡Listo! Ahora solo falta hacer las maletas.
 
@@ -283,24 +286,37 @@ La familia de Wanderbus te desea un feliz viaje!
 (*Aparecerá un modal con el codigo de Pago Efectivo y los bancos donde puede acercarse a pagar de modo presencial si lo prefiere o hacer una transferencia mediante Banca por Internet)
 
 **Log In / Usuario**
- 
+
 * Sección “Mis Viajes”
 Puede ver los tickets de sus viajes.
- 
+
 * Sección “Promociones”
 Puede ver descuentos y promociones de la temporada.
- 
+
 * Sección “Recomienda”
 Puede mandar invitaciones a sus amigos y ganar descuentos.
+
+
 
 ## Resumen
 
 Nuestro usuario principal se llama Carlos, vive en lima y tiene 24 años. Él es comunicador social y trabaja en El Comercio. Viaja dos veces por año. Generalmente una vez en sus vacaciones y otra en feriado largo con amigos.  En su tiempo libre le gusta practicar deportes y salir a divertirse con sus amigos los fines de semana.
 Carlos ha realizado algunas compras online, pero sus experiencias no han sido las mejores. Por eso cuando viaja prefiere comprar en ventanillas o agencias, pero eso le demanda mucho tiempo. Por ello, esta considerando otras opciones que le resulten más rápidas y sencillas.
- 
+
+## Logotipo 
+
+![logo](assets/img/Wanderbus(1).png)
+
+Elegimos el nombre de Wanderbus, ya que *wander* en inglés, significa recorrer, pasear, etc y le añadimos Bus por el rubro de venta de pasaje de bus.
+
 ## Prototipo
 
 ![pag1](assets/img/pag1.jpeg)![pag1](assets/img/pag2.jpeg)![pag1](assets/img/pag3.jpeg)![pag1](assets/img/pag4.jpeg)![pag1](assets/img/pag5.jpeg)![pag1](assets/img/pag6.jpeg)![pag1](assets/img/pag7.jpeg)![pag1](assets/img/pag8.jpeg)![pag1](assets/img/pag9.jpeg)![pag1](assets/img/pag10.jpeg)![pag1](assets/img/pag11.jpeg)![pag1](assets/img/pag12.jpeg)![pag1](assets/img/pag13.jpeg)![pag1](assets/img/pag14.jpeg)
+
+Para una mejor visualizacion de nuestro prototipo, le sugerimos dar click al siguiente link donde se encontrará un carrusel, con las vistas, en orden, del prototype
+
+[LINK](https://mariaruizq.github.io/wanderBus-prototype/).
+
 
 ## Primer Testing
 
