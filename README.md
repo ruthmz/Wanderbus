@@ -39,9 +39,10 @@ En esta sección empezamos a entender los problemas del usuario. Es por eso que 
 
 ![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-7.jpg)![research1](assets/img/research-6.jpg)
 
-Algunos insight que obtuvimos de las encuestas son:
+Algunos insight que obtuvimos de las encuestas virtuales son:
 
-![insight](assets/img/insights.jpeg)
+![rpta](assets/img/ans1.PNG)
+![rpta](assets/img/ans2.PNG)![rpta](assets/img/ans3.PNG)![rpta](assets/img/ans4.PNG)![rpta](assets/img/ans5.PNG)![rpta](assets/img/ans6.PNG)![rpta](assets/img/ans7.PNG)![rpta](assets/img/ans8.PNG)![rpta](assets/img/ans9.PNG)![rpta](assets/img/ans10.PNG)
 
 ### Síntesis
 
@@ -292,6 +293,8 @@ Puede ver descuentos y promociones de la temporada.
  
 * Sección “Recomienda”
 Puede mandar invitaciones a sus amigos y ganar descuentos.
+
+
 
 ## Resumen
 
