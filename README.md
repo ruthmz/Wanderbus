@@ -4,12 +4,12 @@
 * **Curso:** _Primer proyecto de UX_
 * **Unidad:** _Pimer proyecto UX_
 * **Alumnas:**  
-  * Alexandra Calderón. 
+  * Alexandra Calderón.
   * Ruth Matos
-  * Rocio Quilla. 
+  * Rocio Quilla.
   * María Teresa Ruiz.  
   * Angelica Maria Villalobos.
-  * Claudia Ingrid Zarate. 
+  * Claudia Ingrid Zarate.
 
 ***
 
@@ -27,7 +27,7 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ### Research
 
-En este día empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
+En este día empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial.
 
 ![Imagen 1][1]  ![Imagen 2][2]  ![Imagen 3][3]  ![Imagen 4][4]  ![Imagen 5][5]
 
@@ -37,12 +37,10 @@ En este día empezamos a entender los problemas del usuario. Es por eso que sali
  [4]: assets/img/form4.PNG
  [5]: assets/img/form5.PNG
 
-![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-7.jpg)![research1](assets/img/research-6.jpg)
+ A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas
 
+ [LINK](https://mariaruizq.github.io/wanderBus-prototype/).
 
-Algunos insight que obtuvimos de las encuestas son:
-
-![insight](assets/img/insights.jpeg)
 
 ### Síntesis
 
@@ -64,7 +62,7 @@ Después de definir el problema creamos un arquetipo sobre nuestro ususario con 
 
 Es aquí donde empezamos a pensar en qué funcionalidad debería tener nuestro MPV.
 
-Aquí algunas ideas. 
+Aquí algunas ideas.
 
 ![funcionalidad1](assets/img/funcionalidad1.jpeg)![funcionalidad1](assets/img/funcionalidad2.jpeg)![funcionalidad1](assets/img/funcionalidad3.jpeg)
 
@@ -95,7 +93,9 @@ Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones
 
 Nuestro usuario principal se llama Carlos, vive en lima y tiene 24 años. Él es comunicador social y trabaja en El Comercio. Viaja dos veces por año. Generalmente una vez en sus vacaciones y otra en feriado largo con amigos.  En su tiempo libre le gusta practicar deportes y salir a divertirse con sus amigos los fines de semana.
 Carlos ha realizado algunas compras online, pero sus experiencias no han sido las mejores. Por eso cuando viaja prefiere comprar en ventanillas o agencias, pero eso le demanda mucho tiempo. Por ello, esta considerando otras opciones que le resulten más rápidas y sencillas.
- 
+
 ## Prototipo
 
-![pag1](assets/img/pag1.jpeg)![pag1](assets/img/pag2.jpeg)![pag1](assets/img/pag3.jpeg)![pag1](assets/img/pag4.jpeg)![pag1](assets/img/pag5.jpeg)![pag1](assets/img/pag6.jpeg)![pag1](assets/img/pag7.jpeg)![pag1](assets/img/pag8.jpeg)![pag1](assets/img/pag9.jpeg)![pag1](assets/img/pag10.jpeg)![pag1](assets/img/pag11.jpeg)![pag1](assets/img/pag12.jpeg)![pag1](assets/img/pag13.jpeg)![pag1](assets/img/pag14.jpeg)
+A continuación se muestra la página, donde se encontrará un carrusel, con las vistas, en orden, del prototype
+
+[LINK](https://mariaruizq.github.io/wanderBus-prototype/).
