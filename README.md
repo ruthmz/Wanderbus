@@ -27,7 +27,7 @@ Con tu asesoría, ella podrá sustentar su idea de negocio a un grupo de inversi
 
 ### Research
 
-En este día empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
+En esta sección empezamos a entender los problemas del usuario. Es por eso que salimos a hacerles una breve encuesta para saber más de ellos y, así mismo, realizamos una encuesta online con las mismas preguntas que hemos utilizado en la encuesta presencial. 
 
 ![Imagen 1][1]  ![Imagen 2][2]  ![Imagen 3][3]  ![Imagen 4][4]  ![Imagen 5][5]
 
@@ -39,7 +39,6 @@ En este día empezamos a entender los problemas del usuario. Es por eso que sali
 
 ![research1](assets/img/research-2.jpg)![research1](assets/img/research-3.jpg)![research1](assets/img/research-7.jpg)![research1](assets/img/research-6.jpg)
 
-
 Algunos insight que obtuvimos de las encuestas son:
 
 ![insight](assets/img/insights.jpeg)
@@ -48,6 +47,7 @@ Algunos insight que obtuvimos de las encuestas son:
 
 Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los insights hallados en el research y pudimos llegar a encontrar los problemas.
 
+![problem1](assets/img/affinity5.jpeg)
 ![problem1](assets/img/problem1.PNG)![problem1](assets/img/problem2.PNG)![problem1](assets/img/problem3.PNG)![problem1](assets/img/problem4.PNG)![problem1](assets/img/problem5.PNG)
 
 #### User Personas
@@ -56,9 +56,11 @@ Después de definir el problema creamos un arquetipo sobre nuestro ususario con 
 
 ![userperson1](assets/img/userperson1.PNG)
 
-#### Problem statements
+#### Problem statements & How might we? & what if...?
 -  Carlos NECESITA una manera segura PARA comprar pasajes online.
 -  Carlos QUISIERA que el proceso de compra PARA realizar compras online.
+
+![userperson1](assets/img/hmw.jpeg)![userperson1](assets/img/whatif.jpeg)
 
 ### Conceptualización
 
@@ -90,6 +92,206 @@ Carlos decide ingresar a wanderbus.com y encuentra un portal dinámico y muy fá
 Y al cabo de 10 minutos, ya tiene la compra del ticket realizada, lo que le da tranquilidad y tiempo suficiente para hacer sus maletas y partir.
 
 Carlos se encuentra muy feliz en Ica haciendo tubulares, pasando unas vacaciones increíbles.
+
+**Content Prototyping**
+
+**WanderBus**
+
+“Viaja fácil y seguro”
+ 
+¡Hola, bienvenido a WanderBus. Para brindarte una experiencia única de viaje. Elige la opción que prefieras! 
+
+1. Quiero explorar nuevas opciones. 
+2. Ya tengo elegido mi destino.
+
+(​Elige: ‘Opción 1 ​ )
+
+Queremos conocerte más! Elige lo que más te gusta hacer cuando viajas!
+
+*Aparecerán imágenes de … y se puede elegir mas de una opción.
+
+* Deportes extremos, soy un adrenalina lover!
+* Festivales de música
+* Festividades tradicionales
+* Visitar sitios arqueológicos
+* Naturaleza
+* Playas
+* Imperdibles
+
+(Elige deportes de aventura y naturaleza)
+
+*Aparecerán imágenes con los destinos
+
+* Lunahuaná
+* Ica
+* Cusco
+* Amazonas
+* Tarapoto
+* Tingo María
+
+*Aparecerá a modo de banners; ofertas, promociones, información relacionada a los destinos elegidos.
+
+(Selecciona Ica)
+
+Se muestra una pequeña infografía con información resumida de la provincia, actividades que realizar (deportes extremos), lugares turísticos para disfrutar de la naturaleza, comidas típicas,  con opción a Ver más.
+
+**Ica:**
+A solo unas horas de Lima se encuentra la mezcla perfecta de aventura y relax. Ica es más que solo un buen pisco: disfruta de sus playas, valles y del increíble oasis de la Huacachina todo el año y atrévete a realizar sandboard sobre las dunas o recorre los inmensos desiertos en un tubular. No esperes más y descubre todo lo que esta región tiene para ofrecerte.
+
+**Aventurate a hacer estos  deportes extremos! :**
+
+*(*Por cada opción, se muestra el costo, puntuación, agencias con las que puede hacerlo y cuales son los requerimientos y previsiones a tener en cuenta.)*
+
+* Paseos en carros tubulares en La Huacachina
+* Sand-boarding en La Huacachina
+* Vuelo en Parapente en Paracas
+* Trekking en la bahía de Paracas
+* Biking en Paracas
+* Canotaje
+* Windsurf en las playas de Paracas
+* Kayak en la bahía de Paracas
+* Quads en Paracas
+* Buceo en Paracas
+
+**Atractivos turísticos en la naturaleza que tienes que visitar!**
+
+*(*Cada opción se presenta con fotografías del lugar, un mapa, indicaciones de como llegar ahi desde la ciudad y una puntuación)*
+
+* Acueducto de Cantalloc 
+* Cerro Blanco 
+* Islas Ballestas
+* Reserva Nacional de Paracas
+* Reserva Nacional de San Fernando
+
+**Lista de Restaurantes** ( con opción a filtrarlos de acuerdo al precio y el tipo de comida que ofrecen)
+**Lista de Hospedajes** ( con opcion a filtrarlos de acuerdo al precio y los servicios que ofrece)
+
+Aparece un botón que dice “Reserva ahora”
+
+Un modal con las fechas de viaje para que pueda seleccionar (Ida y regreso)
+
+* Fecha: (Selecciona en un calendario)
+
+Viajaremos, viajaremos y el mundo conquistaremos <3 
+
+* (Lista de opciones de los pasajes: precio, empresa, horario) 
+(​Selecciona: ‘Una opción’ ​ ) 
+* Información del boleto	
+--------
+(​Elige: ‘¡Comprar!’ )
+  
+¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra 
+
+* Facebook 
+
+* Gmail
+
+* Correo
+
+Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros! 
+
+¡Estás más cerca de iniciar una nueva aventura! 
+      
+* Tarjeta de crédito/débito
+
+* Pago Efectivo
+
+(​Elige: ‘tarjeta’ ​) 
+
+* Crédito
+
+* Débito 
+
+(​Elige: ‘Débito’ ​) 
+
+* Ingresa los datos del medio de pago.
+
+* Ingresa tu número de celular para enviarte un código de seguridad.
+
+¡Ya estamos a solo un paso! Te acabamos de enviar un código de seguridad a tu celular.
+
+* Ingresa tu código de seguridad para seguir con la compra
+(​Ingresa: ‘código de compra’ ​)
+
+¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes. 
+
+¡Listo! Ahora solo falta hacer las maletas.
+La familia de Wanderbus te desea un feliz viaje!
+
+(Elige “Pago Efectivo”)
+
+*(*Aparecerá un modal con el codigo de Pago Efectivo y los bancos donde puede acercarse a pagar de modo presencial si lo prefiere o hacer una transferencia mediante Banca por Internet)*
+
+**Segunda Opción:**
+
+¡Hola, bienvenido a WanderBus. Para brindarte una experiencia única de viaje. Elige la opción que prefieras! 
+
+1. Quiero explorar nuevas opciones. 
+2. Ya tengo elegido mi destino.
+
+(​Elige: ‘Opción 2’ ​ )
+
+¡Perfecto! ¿A dónde quieres ir?
+* Origen: …
+* Destino: ...
+* Fecha: ...
+(​Escribe: ‘Lima - Ica’ ​ )  
+
+Estas son las mejores opciones para ti ! 
+
+* (Lista de opciones de los pasajes: precio, empresa, horario) 
+(​Selecciona: ‘Una opción’ ​ ) 
+* Información del boleto	
+--------
+(​Elige: ‘¡Comprar!’ )
+  
+¿Es tu primera vez con nosotros? Por favor, regístrate para brindarte la mejor seguridad al ejecutar la compra 
+* Facebook 
+* Gmail
+* Correo
+
+Alert: *Al registrarte recibirás un cupón con el 30% de descuento para que lo uses en tu primer viaje con nosotros! 
+
+¡Estás más cerca de iniciar una nueva aventura! 
+      
+* Tarjeta de crédito/débito
+* Pago Efectivo
+
+(​Elige: ‘tarjeta’ ​ ) 
+
+* Crédito
+* Débito 
+
+(​Elige: ‘Debito’ ​) 
+
+* Ingresa los datos del medio de pago.
+* Ingresa tu número de celular para enviarte un código de seguridad.
+
+¡Ya estamos a solo un paso! Te acabamos de enviar un código de seguridad a tu celular.
+
+* Ingresa tu código de seguridad para seguir con la compra.
+(​Ingresa: ‘código de compra’ ​ )
+
+¡Yay! La compra ha sido exitosa.  Te estamos enviando los pasajes al correo con el que te registraste. En la sección “Mis Viajes” encontraras tu pasaje digital para que lo descargues o compartas en tus redes. 
+
+¡Listo! Ahora solo falta hacer las maletas.
+
+La familia de Wanderbus te desea un feliz viaje!
+
+(Elige “Pago Efectivo”)
+
+(*Aparecerá un modal con el codigo de Pago Efectivo y los bancos donde puede acercarse a pagar de modo presencial si lo prefiere o hacer una transferencia mediante Banca por Internet)
+
+**Log In / Usuario**
+ 
+* Sección “Mis Viajes”
+Puede ver los tickets de sus viajes.
+ 
+* Sección “Promociones”
+Puede ver descuentos y promociones de la temporada.
+ 
+* Sección “Recomienda”
+Puede mandar invitaciones a sus amigos y ganar descuentos.
 
 ## Resumen
 
