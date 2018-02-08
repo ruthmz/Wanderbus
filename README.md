@@ -305,7 +305,7 @@ Carlos ha realizado algunas compras online, pero sus experiencias no han sido la
 
 ## Logotipo 
 
-![logo](assets/img/Wanderbus(1).png)
+![logo](assets/img/Wanderbus.png)
 
 Elegimos el nombre de Wanderbus, ya que *wander* en inglés, significa recorrer, pasear, etc y le añadimos Bus por el rubro de venta de pasaje de bus.
 
