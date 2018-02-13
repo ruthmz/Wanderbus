@@ -63,6 +63,10 @@ Después de definir el problema creamos un arquetipo sobre nuestro ususario con 
 
 ![servedperson](assets/img/servedpersona.JPG)
 
+### Negative Person
+
+![servedperson](assets/img/negative.png)
+
 
 #### Problem statements & How might we? & what if...?
 -  Carlos NECESITA una manera segura PARA comprar pasajes online.
