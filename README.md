@@ -343,3 +343,21 @@ Y que en la ventana de registro ya no seria necesario que usemos Facebook o Gmai
 Así mismo, que detallemos mejor el modal con la opción de Pago Efectivo, que se especifique principalmente como es que podemos utilizar esta modalidad y en que lugares podemos pagarla.
 
 Por otro lado, como aspectos positivos de nuestro website, fueron que le gusto que existan opciones de las actividades a realizar en el destino escogido ya que es muy importante para ella saber que más hacer en un lugar que apenas conoce y que el proceso le pareció fácil e intuitivo.
+
+
+## Customer Journey Map
+
+### Sin Web
+
+![customer-journer-map](assets/img/sinweb.JPG)
+
+### Con Web
+
+![customer-journer-map](assets/img/conweb.JPG)
+
+## User Persona
+
+### Served Persona
+
+![served-persona](assets/img/servedpersona.JPG)
+![served-persona](assets/img/servedpersona.JPG)
