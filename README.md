@@ -57,13 +57,12 @@ Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los i
 
 Después de definir el problema creamos un arquetipo sobre nuestro ususario con todos los datos recogidos.
 
-### USER PERSONA PRINCIPAL
-
 ![userperson1](assets/img/userperson1.PNG)
 
-### NEGATIVE PERSONA
+### Served Persona
 
-![negativepersona](assets/img/negative.png)
+![servedperson](assets/img/servedpersona.JPG)
+
 
 #### Problem statements & How might we? & what if...?
 -  Carlos NECESITA una manera segura PARA comprar pasajes online.
@@ -361,9 +360,4 @@ Por otro lado, como aspectos positivos de nuestro website, fueron que le gusto q
 
 ![customer-journer-map](assets/img/conweb.JPG)
 
-## User Persona
 
-### Served Persona
-
-![served-persona](assets/img/servedpersona.JPG)
-![served-persona](assets/img/servedpersona.JPG)
