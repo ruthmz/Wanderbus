@@ -53,7 +53,13 @@ Mediante la técnica del Affinity Mapping podemos procesar de mejor manera los i
 
 Después de definir el problema creamos un arquetipo sobre nuestro ususario con todos los datos recogidos.
 
+### USER PERSONA PRINCIPAL
+
 ![userperson1](assets/img/userperson1.PNG)
+
+### NEGATIVE PERSONA
+
+![negativepersona](assets/img/negative.png)
 
 #### Problem statements & How might we? & what if...?
 -  Carlos NECESITA una manera segura PARA comprar pasajes online.
