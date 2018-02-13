@@ -37,10 +37,14 @@ En esta sección empezamos a entender los problemas del usuario. Es por eso que 
  [4]: assets/img/form4.PNG
  [5]: assets/img/form5.PNG
 
- A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas
+ A continuación se muestra la página, donde se encontrarán fotos de las encuestas para al realización del proyecto, y los insights obtenidos de las encuestas:
 
- [LINK](https://mariaruizq.github.io/wanderBus-prototype/).
+  [LINK](https://mariaruizq.github.io/wanderBus-prototype/).
 
+Algunos insight que obtuvimos de las encuestas virtuales son:
+
+![rpta](assets/img/ans1.PNG)
+![rpta](assets/img/ans2.PNG)![rpta](assets/img/ans3.PNG)![rpta](assets/img/ans4.PNG)![rpta](assets/img/ans5.PNG)![rpta](assets/img/ans6.PNG)![rpta](assets/img/ans7.PNG)![rpta](assets/img/ans8.PNG)![rpta](assets/img/ans9.PNG)![rpta](assets/img/ans10.PNG)
 
 ### Síntesis
 
@@ -298,13 +302,68 @@ Puede ver descuentos y promociones de la temporada.
 * Sección “Recomienda”
 Puede mandar invitaciones a sus amigos y ganar descuentos.
 
+
+
 ## Resumen
 
 Nuestro usuario principal se llama Carlos, vive en lima y tiene 24 años. Él es comunicador social y trabaja en El Comercio. Viaja dos veces por año. Generalmente una vez en sus vacaciones y otra en feriado largo con amigos.  En su tiempo libre le gusta practicar deportes y salir a divertirse con sus amigos los fines de semana.
 Carlos ha realizado algunas compras online, pero sus experiencias no han sido las mejores. Por eso cuando viaja prefiere comprar en ventanillas o agencias, pero eso le demanda mucho tiempo. Por ello, esta considerando otras opciones que le resulten más rápidas y sencillas.
 
+## Logotipo 
+
+![logo](assets/img/Wanderbus.png)
+
+Elegimos el nombre de Wanderbus, ya que *wander* en inglés, significa recorrer, pasear, etc y le añadimos Bus por el rubro de venta de pasaje de bus.
+
 ## Prototipo
 
-A continuación se muestra la página, donde se encontrará un carrusel, con las vistas, en orden, del prototype
+![pag1](assets/img/pag1.jpeg)![pag1](assets/img/pag2.jpeg)![pag1](assets/img/pag3.jpeg)![pag1](assets/img/pag4.jpeg)![pag1](assets/img/pag5.jpeg)![pag1](assets/img/pag6.jpeg)![pag1](assets/img/pag7.jpeg)![pag1](assets/img/pag8.jpeg)![pag1](assets/img/pag9.jpeg)![pag1](assets/img/pag10.jpeg)![pag1](assets/img/pag11.jpeg)![pag1](assets/img/pag12.jpeg)![pag1](assets/img/pag13.jpeg)![pag1](assets/img/pag14.jpeg)
+
+Para una mejor visualizacion de nuestro prototipo, le sugerimos dar click al siguiente link donde se encontrará un carrusel, con las vistas, en orden, del prototype
 
 [LINK](https://mariaruizq.github.io/wanderBus-prototype/).
+
+
+## Primer Testing
+
+**Fecha:** *6 de febrero*
+**Usuario:** *Diego*
+
+En resumen, Diego nos comentó que si bien el proceso era entendible, le parecía muy largo y su sugerencia fue unir algunas vistas para acortar el proceso. Tambien nos recomendó que le gustaria observar que los precios de los pasajes se puedan ver desde el inicio (al momento de ofrecer los destinos) para poder ceñirse a un presupuesto.
+
+**Usuario:** *Ruth*
+
+Ruth nos mencionó que no le parecía seguro que solo le enviaran un mensaje con un codigo, porque al final si pondria un numero de teléfono no hay forma de saber si esta vinculado con la tarjeta es por eso que  sugirió un codigo CAPTCHA y que le parecía muy amigable y divertido nuestro *helper*. 
+
+## Segundo Testing
+
+**Fecha:** *7 de febrero*
+**Usuario:** *Lourdes Vilchez*
+
+Con el primer prototipo mejorado, recibimos un nuevo feedback y los puntos a mejorar que se observaron fueron:
+
+Esta vez, Lourdes hizo hincapié en la seguridad que queremos trasmitir con nuestro website. Nos hizo dar cuenta que necesitabamos una identificacion de seguridad adicional, es decir, contar con un sello de seguridad en el modal que pedimos los datos de la tarjeta de crédito o débito para realizar la transacción si no perdemos confiabilidad.
+
+Y que en la ventana de registro ya no seria necesario que usemos Facebook o Gmail para el registro ya que nuevamente ponemos en riesgo la seguridad del portal.
+
+Así mismo, que detallemos mejor el modal con la opción de Pago Efectivo, que se especifique principalmente como es que podemos utilizar esta modalidad y en que lugares podemos pagarla.
+
+Por otro lado, como aspectos positivos de nuestro website, fueron que le gusto que existan opciones de las actividades a realizar en el destino escogido ya que es muy importante para ella saber que más hacer en un lugar que apenas conoce y que el proceso le pareció fácil e intuitivo.
+
+
+## Customer Journey Map
+
+### Sin Web
+
+![customer-journer-map](assets/img/sinweb.JPG)
+
+### Con Web
+
+![customer-journer-map](assets/img/conweb.JPG)
+
+## User Persona
+
+### Served Persona
+
+![served-persona](assets/img/servedpersona.JPG)
+![served-persona](assets/img/servedpersona.JPG)
