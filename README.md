@@ -353,6 +353,19 @@ Así mismo, que detallemos mejor el modal con la opción de Pago Efectivo, que s
 
 Por otro lado, como aspectos positivos de nuestro website, fueron que le gusto que existan opciones de las actividades a realizar en el destino escogido ya que es muy importante para ella saber que más hacer en un lugar que apenas conoce y que el proceso le pareció fácil e intuitivo.
 
+## Storytelling
+
+Carlos es un chico súper alegre, a pesar de todo siempre ha sabido ser positivo. Se esforzó mucho por conseguir terminar su carrera, es un comunicador de 24 años, exitoso. 
+Cuando comenzó a trabajar le iba súper, y así fue ascendiendo, y su tiempo disminuyendo. Por esto, comenzó a dejar pasiones de lado, como conocer nuevos lugares y personas. Lo que lo llevó a estar cansado de su rutina, casi casi se convierte en un pesimista. Sin embargo, hoy en la mañana, al despertarse dijo: "NO, no puedo perderme a mí mismo" y con todas las ganas, está dispuesto a retomar y equilibrar su vida entre sus pasiones y su trabajo.
+
+
+Para su suerte, hay un feriado largo a puertas, y piensa viajar dentro del Perú. Sin embargo, sabe que no puede dejar la responsabilidad del trabajo atrás y sentarse a buscar por internet lugares nuevos y maravillosos.
+
+Entonces, recuerda que un compañero le recomendó una página: WANDERBUS. Entra y la página, se ve prometedora, le han dado a elegir ciertos criterios para darle como resultado "el sitio ideal para viajar". Y "Oh, vaya!" según la página, su lugar ideal sería Ica e incluso puede comprar el boleto de bus ahí mismo, escoger su asiento y pagar con tarjeta de crédito en menos de 5 minutos
+
+Relajado Carlos, vuelve a su rutina, más feliz, más contento pero sabiendo que le espera un gran viaje.. 
+
+
 
 ## Customer Journey Map
 
