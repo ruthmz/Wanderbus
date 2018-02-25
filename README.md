@@ -1,4 +1,8 @@
-# UX - Research  
+# Wanderbus
+
+Wanderbus es una plataforma web de venta de pasajes de bus que facilita el proceso de compra para todo viajero. Además, si te encuentras indeciso te ayuda a elegir tu destino ideal. 
+
+![wanderbus](https://user-images.githubusercontent.com/32309484/36639096-0eb5e3b4-19d2-11e8-84d4-8ce7d4d28157.JPG)
 
 * **Track:** _Especialización UX Designer_
 * **Curso:** _Primer proyecto de UX_
@@ -13,7 +17,7 @@
 
 ***
 
-## RETO
+## Reto
 
 **Nueva experiencia en empresas de buses**
 
@@ -318,13 +322,13 @@ Carlos ha realizado algunas compras online, pero sus experiencias no han sido la
 
 Elegimos el nombre de Wanderbus, ya que *wander* en inglés, significa recorrer, pasear, etc y le añadimos Bus por el rubro de venta de pasaje de bus.
 
-## Prototipo
+## Prototipo en papel
 
 ![pag1](assets/img/pag1.jpeg)![pag1](assets/img/pag2.jpeg)![pag1](assets/img/pag3.jpeg)![pag1](assets/img/pag4.jpeg)![pag1](assets/img/pag5.jpeg)![pag1](assets/img/pag6.jpeg)![pag1](assets/img/pag7.jpeg)![pag1](assets/img/pag8.jpeg)![pag1](assets/img/pag9.jpeg)![pag1](assets/img/pag10.jpeg)![pag1](assets/img/pag11.jpeg)![pag1](assets/img/pag12.jpeg)![pag1](assets/img/pag13.jpeg)![pag1](assets/img/pag14.jpeg)
 
 Para una mejor visualizacion de nuestro prototipo, le sugerimos dar click al siguiente link donde se encontrará un carrusel, con las vistas, en orden, del prototype
 
-[LINK](https://mariaruizq.github.io/wanderBus-prototype/).
+[Carrusel del prototipado](https://mariaruizq.github.io/wanderBus-prototype/).
 
 
 ## Primer Testing
@@ -353,6 +357,37 @@ Así mismo, que detallemos mejor el modal con la opción de Pago Efectivo, que s
 
 Por otro lado, como aspectos positivos de nuestro website, fueron que le gusto que existan opciones de las actividades a realizar en el destino escogido ya que es muy importante para ella saber que más hacer en un lugar que apenas conoce y que el proceso le pareció fácil e intuitivo.
 
+## Prototipo de Media Fidelidad 
+
+Fue realizado en base al último testeo del prototipo en papel, donde solo se considera los 2 flujos más importantes; la presentación de posibles destinos ideales al usuario y la compra de pasajes para el mismo o alguno diferente. El resultado fue el siguiente: 
+
+[Marvel - Prototipo de media fidelidad](https://marvelapp.com/2jeb89c/screen/38570256).
+
+Al testear este prototipo, entendimos que el flujo para los usuarios era bastante fácil, ellos comentaban que se les hacía entendible, sin embargo creían que tal vez eran muchas pantallas. Además, querían poder intereactuar con todo el sitio, no solo asignándoles una tarean(en la que debían hacer click solo en ciertos botones), querían ver colores e imágenes reales. 
+Observando a los usuarios pudimos notar cierta confusión en la opción "Mi cuenta", la cual se encuentra en la parte superior derecha, no sabían si ya estaban logeados o qué era lo que pasaba. Además, el precio de los posibles destinos no está muy visible, había cierto disgusto al tener que mirar toda la información primero antes de ver el costo del pasaje.
+
+
+## Prototipo de Alta Fidelidad
+
+En este prototipo aplicamos el feedback recibido con el prototipo de media fidelidad. Añadimos color e imágenes, para esto modificamos el isotipo de Wanderbus. La opción "Mi cuenta" se cambió a las opciones "Iniciar sesión o Registrarse". Para los precios, decidimos ponerlos justo debajo de las imágenes de los posibles destinos del viajero. Por último, hicimos interactivo todo el sitio, los flujos principales están completos, y la mayoría de flujos extras tabién fueron cubiertos. 
+
+Antes de una presentación final, se testeó con algunos usuarios dentro de los parámetros de nuestro usuario ideal, los que dieron feedback sobre tamaño de letras y color de las mismas en algunas partes de la plataforma. 
+
+El resultado fue el siguiente: 
+
+[Marvel - Prototipo de alta fidelidad](https://marvelapp.com/3jg3bfg/screen/38646658).
+
+
+## Customer Journey Map
+
+### Sin Web
+
+![customer-journer-map](assets/img/sinweb.JPG)
+
+### Con Web
+
+![customer-journer-map](assets/img/conweb.JPG)
+
 ## Storytelling
 
 Carlos es un chico súper alegre, a pesar de todo siempre ha sabido ser positivo. Se esforzó mucho por conseguir terminar su carrera, es un comunicador de 24 años, exitoso. 
@@ -365,16 +400,16 @@ Entonces, recuerda que un compañero le recomendó una página: WANDERBUS. Entra
 
 Relajado Carlos, vuelve a su rutina, más feliz, más contento pero sabiendo que le espera un gran viaje.. 
 
+## Feedback de Prototipo de Alta Fidelidad
 
+* Buena utilización de la paleta de colores, a excepción del rojo, pero en general bastante bien.
+* Buena arquitectura de la información.
+* Tratar de no usar imágenes completas en un modal.
+* Palabra "or" en vez de "o".
 
-## Customer Journey Map
+## Lo aprendido en equipo
 
-### Sin Web
+* Al principio iba todo muy bien, nunca nos percatamos de que tal vez estábamos fallando en algo. Hubo un incidente que nos abrió los ojos, nos dimos cuenta de la falta de comunicación que había entre nosotras. Para esto, optamos por una charla, en la cual concretamos ciertos puntos: comunicación acertiva y a tiempo, escucharnos atentamente, puntualidad respecto a encuentros y deadlines en el grupo, por último manejar una agenda en Trello. Luego de esto el trabajo en equipo fue mucho mejor, logramos los objetivos que nos propusimos y siempre con mira a poder mejorar nuestro producto.
 
-![customer-journer-map](assets/img/sinweb.JPG)
-
-### Con Web
-
-![customer-journer-map](assets/img/conweb.JPG)
 
 
