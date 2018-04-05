@@ -7,6 +7,7 @@ Wanderbus es una plataforma de fácil acceso para adquirir pasajes de bus, que t
 ## Desarrollado para 
 
 [Laboratoria](http://laboratoria.la)
+***
 
 * **Track:** _Especialización UX Designer_
 * **Curso:** _Primer proyecto de UX_
