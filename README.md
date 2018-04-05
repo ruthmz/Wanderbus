@@ -4,6 +4,10 @@ Wanderbus es una plataforma de fácil acceso de venta de pasajes de bus que te p
 
 ![wanderbus](https://user-images.githubusercontent.com/32309484/36639096-0eb5e3b4-19d2-11e8-84d4-8ce7d4d28157.JPG)
 
+## Desarrollado para 
+
+[Laboratoria](http://laboratoria.la)
+
 * **Track:** _Especialización UX Designer_
 * **Curso:** _Primer proyecto de UX_
 * **Unidad:** _Pimer proyecto UX_
@@ -16,6 +20,7 @@ Wanderbus es una plataforma de fácil acceso de venta de pasajes de bus que te p
   * Claudia Ingrid Zarate.
 
 ***
+
 
 ## Reto
 
