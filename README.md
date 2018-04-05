@@ -1,6 +1,6 @@
 # Wanderbus
 
-Wanderbus es una plataforma de fácil acceso de venta de pasajes de bus que te permite descubrir destinos de acuerdo a tus actividades preferidas
+Wanderbus es una plataforma de fácil acceso para adquirir pasajes de bus, que te permite descubrir destinos de acuerdo a tus actividades preferidas
 
 ![wanderbus](https://user-images.githubusercontent.com/32309484/36639096-0eb5e3b4-19d2-11e8-84d4-8ce7d4d28157.JPG)
 
